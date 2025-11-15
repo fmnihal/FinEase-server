@@ -1,2 +1,4 @@
 .env
 fin-ease-adminsdk.json
+node_modules/
+.vercel
